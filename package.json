@@ -1,0 +1,19 @@
+{
+  "name": "apalachia-ofabric",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "hahaha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/OlliPaasikoski/apalachia-ofabric.git"
+  },
+  "author": "Olli Paasikoski",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OlliPaasikoski/apalachia-ofabric/issues"
+  },
+  "homepage": "https://github.com/OlliPaasikoski/apalachia-ofabric#readme"
+}
